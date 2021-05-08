@@ -2,8 +2,6 @@
 
 *Hi there! Welcome to my github page.*
 
-![My picture](mypicture.jpg)
-
 ## Heading size 2
 
 List of sentences:
