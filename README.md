@@ -1,1 +1,0 @@
-# kritikush.github.io
